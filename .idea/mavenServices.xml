@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenServices">
+    <service-url>https://oss.sonatype.org/service/local/</service-url>
+    <service-url>https://repo.jfrog.org/artifactory/api/</service-url>
+    <service-url>https://repository.jboss.org/nexus/service/local/</service-url>
+    <service-url>https://jcenter.bintray.com</service-url>
+    <service-url>https://watt-db1.workfusion.com/nexus/content/repositories/ml-sdk/com/workfusion/ml/ml-sdk-ie-archetype/</service-url>
+    <service-url>https://watt-db1.workfusion.com/nexus/service/local/repositories/wf-archetypes-releases/content/archetype-catalog.xml</service-url>
+  </component>
+</project>
